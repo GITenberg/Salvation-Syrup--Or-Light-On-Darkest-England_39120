@@ -1,0 +1,29 @@
+_repo: Salvation-Syrup--Or-Light-On-Darkest-England_39120
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Foote, G. W. (George William)
+    alias: Foote, George William
+    birthdate: 1850
+    deathdate: 1915
+    gutenberg_agent_id: '2333'
+    url: http://www.gutenberg.org/2009/agents/2333
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Foote
+description: ''
+gutenberg_issued: '2012-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Booth, William, 1829-1912. In darkest England, and the way out'
+- !lcc 'BX'
+- !lcsh 'Salvation Army -- Great Britain'
+title: Salvation Syrup; Or, Light On Darkest England
+url: http://www.gutenberg.org/ebooks/39120
