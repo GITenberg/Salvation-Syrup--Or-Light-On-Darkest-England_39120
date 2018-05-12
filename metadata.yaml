@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2333
     wikipedia: http://en.wikipedia.org/wiki/George_William_Foote
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39120#Salvation-Syrup--Or-Light-On-Darkest-England
 gutenberg_issued: '2012-03-12'
 gutenberg_type: Text
 identifiers:
